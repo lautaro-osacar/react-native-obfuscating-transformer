@@ -45,7 +45,7 @@
     "metro-bundler": "^0.22.1",
     "np": "^4.0.2",
     "prettier": "^1.10.2",
-    "react-native": "^0.57.1",
+    "react-native": "^0.70.2",
     "ts-jest": "^22.0.1",
     "ts-node": "^4.1.0",
     "typescript": "^2.6.2"
